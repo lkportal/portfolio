@@ -43,3 +43,12 @@
     margin: 0 2em;
     font-size: 1em;
 }
+.conteiner-icons{
+    display: flex;
+    justify-content: center;
+}
+.icons-imgs{
+    width: 20px;
+    height: 20px;
+    padding: 1rem;
+}
