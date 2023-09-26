@@ -1,3 +1,11 @@
+@media only screen and (min-width:545px) {
+    .conteiner-card{
+        margin: 5rem;
+        border: solid 1px #aaa;
+        border-radius: 5%;
+        box-shadow: 2px 2px #aaa 
+    }
+}
 .conteiner{
     display: flex;
     justify-content: center;
@@ -15,7 +23,7 @@
         width: 460px;
     }
 } 
-@media only screen and (max-width:540px){
+@media only screen and (max-width:690px){
     .conteiner-section{
       flex-direction: column;
       align-items: center;
@@ -41,7 +49,7 @@
 }
 .textAboutMe{
     margin: 0 2em;
-    font-size: 1em;
+    font-size: 15px;
 }
 .conteiner-icons{
     display: flex;
